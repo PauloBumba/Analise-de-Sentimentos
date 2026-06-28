@@ -1,7 +1,7 @@
 # Relatório Técnico — Sistema Inteligente de Reconhecimento de Emoções em Tempo Real
 
 **Disciplina:** Inteligência Artificial e Processamento de Imagens
-**Autor:** Paulo Bumba
+**Autor:** Paulo Mário Valente Bumba e Paulo Ricardo Sanches
 
 ## 1. Introdução
 
